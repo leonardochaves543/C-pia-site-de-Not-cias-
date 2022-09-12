@@ -1,4 +1,6 @@
-# Cópia de "Notícia"
+# Projeto de aulas HTML & CSS puro...
+
+ Projeto de curso que estou fazendo, com objetivo de me aperfeiçoar na linhas de marcação Html & Css.
 
 ![Captura de tela](https://user-images.githubusercontent.com/97844329/189171147-0029d992-241f-47c3-ae41-b1ddf474edde.png)
 <br>
